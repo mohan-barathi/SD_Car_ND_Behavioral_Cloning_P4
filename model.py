@@ -215,8 +215,8 @@ if __name__ == '__main__':
 	history_object = model.fit_generator(train_generator(), steps_per_epoch = len(train_samples) / batch_size, 
 										validation_data=validation_generator(),
 										validation_steps=len(validation_samples) / batch_size, 
-										epochs=1, verbose = 2)
+										epochs=10, verbose = 2)
 									 
 	# Save the model
-	model.save("model1.h5")
+	model.save("model.h5")
 									 
