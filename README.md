@@ -25,7 +25,7 @@ Important Links :
 * [Saved Model](./model.h5)
 * [Writeup](./writeup.md)
 * [Output Video](./video.mp4)
-* [Jupyter Notebook](./Extras/Behavioral_Cloning.ipynb)
+* [as a notebook on nbviewer](https://nbviewer.jupyter.org/github/mohan-barathi/SD_Car_ND_Behavioral_Cloning_P4/blob/master/Extras/SDCar-ND_Project4-Behavioral_Cloning.ipynb)
 
 Dependencies :
 ---
